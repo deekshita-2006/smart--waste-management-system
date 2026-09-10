@@ -1,0 +1,7 @@
+backend/.venv/
+backend/__pycache__/
+backend/app/__pycache__/
+backend/smart_waste.db
+frontend/node_modules/
+frontend/dist/
+__pycache__/
